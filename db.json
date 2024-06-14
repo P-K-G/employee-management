@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Piyush Khandelwal",
+      "email": "test@example.com",
+      "contact": "1234567890",
+      "post": "Manager",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Piyush Khandelwal",
+      "email": "test@example.com",
+      "contact": "1234567890",
+      "post": "Manager",
+      "gender": "Male"
+    },
+    {
+      "id": "f117",
+      "name": "Ritika Khandelwal ",
+      "email": "khandelwal9950@gmail.com",
+      "contact": "0987654321",
+      "post": "asdfghjkl",
+      "gender": "Female"
+    }
+  ]
+}
